@@ -7,7 +7,7 @@ const config = {
      */
     PICTURE: "assets/img/ppnoel.png",
 
-    DESCRIPTION: "Just a <b>french<b>🇫🇷 developper",
+    DESCRIPTION: "Just a <b>french<b> 🇫🇷 developper",
 
     BADGES: [
         { id: "HypeSquad Balance", image: "assets/img/9f00b18e292e10fc0ae84ff5332e8b0b[1].svg" },
