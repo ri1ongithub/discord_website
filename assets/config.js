@@ -20,7 +20,7 @@ const config = {
 
     SOCIALS: [
         { class_name: "fab fa-github", link: "https://github.com/ri1ongithub" },
-        { class_name: "fab fa-globe", link: "https://rien.tk" },
+        { class_name: "fas fa-globe", link: "https://rien.tk" },
     ],
 
 }
