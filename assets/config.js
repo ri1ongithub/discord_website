@@ -1,28 +1,26 @@
 const config = {
     
-    USERNAME: "User#0000",
+    USERNAME: "ri1_#9505",
     /**
      * This can either be a file link (relative or external)
      * or a Gravatar email or hash.
      */
-    PICTURE: "assets/img/profile_picture.png",
+    PICTURE: "assets/img/ppnoel.png",
 
-    DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
+    DESCRIPTION: "Just a <br>french<br>🇫🇷 developper",
 
     BADGES: [
-        { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
-        { id: "Nitro Sub", image: "assets/img/nitro_sub.svg" },
+        { id: "HypeSquad Balance", image: "assets/img/9f00b18e292e10fc0ae84ff5332e8b0b[1].svg" },
     ],
 
     PROJECTS: [
-        { id: "project-1", image: "assets/img/placeholder1.png", link: "https://discord.com", name: "Super cool project 1" },
-        { id: "project-2", image: "assets/img/placeholder2.png", link: "https://discord.com", name: "Super cool project 2" },
-        { id: "project-3", image: "assets/img/placeholder3.png", link: "https://discord.com", name: "Super cool project 3" },
+        { id: "project-1", image: "http://spacy.tk/assets/BotLogo.svg", link: "https://spacy.tk", name: "Spacy" },
+        { id: "project-2", image: "https://cdn.discordapp.com/avatars/861892444253585429/2115a05b0c9f0b35b4646aebe0cd7326.webp", link: "https://github.com/ri1ongithub/rtranslate", name: "RTranslate" },
     ],
 
     SOCIALS: [
-        { class_name: "fab fa-github", link: "https://github.com/discord" },
-        { class_name: "fab fa-twitter", link: "https://twitter.com/discord" },
+        { class_name: "fab fa-github", link: "https://github.com/ri1ongithub" },
+        { class_name: "far fa-globe", link: "https://rien.tk" },
     ],
 
 }
